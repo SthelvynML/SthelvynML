@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Moisés Sthelvyn</h1>
-<h3 align="center">Apaixonado pelo mundo dos Dados!</h3>
+<h3 align="center">Analista de Dados</h3>
 
-- Atualmente estou aprendendo **Machine Learning, Python, SQL e Big Data**
+- **Power BI, Python, SQL, Estatística**
 
 - 👨‍💻 Todos os meus projetos estarão disponíveis em [https://moisessthelvyn.framer.website/](https://moisessthelvyn.framer.website/)
 
